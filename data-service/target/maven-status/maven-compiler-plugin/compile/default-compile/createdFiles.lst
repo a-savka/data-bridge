@@ -1,0 +1,7 @@
+ru/savka/data_service/controller/UserEventController.class
+ru/savka/data_service/DataServiceApplication.class
+ru/savka/data_service/data/UserEvent.class
+ru/savka/data_service/data/UserEventRepository.class
+ru/savka/data_service/api/EventsApi.class
+ru/savka/data_service/model/UserEvent.class
+ru/savka/data_service/api/ApiUtil.class
